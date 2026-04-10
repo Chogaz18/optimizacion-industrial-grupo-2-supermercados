@@ -8,8 +8,7 @@ Repositorio del **proyecto final** del curso de Optimización Industrial: selecc
 |--------|-------------|
 | [`Grupo_2_Ubicacion_de_supermercados.ipynb`](Grupo_2_Ubicacion_de_supermercados.ipynb) | Notebook principal pensado para **Google Colab**: datos, parámetros, reparación de factibilidad, AG mono, NSGA-II, pipeline experimental, figuras y **conclusiones** al final. |
 | `README.md` | Este archivo. |
-
-**Nota:** el dataset `Candidatos_supermercados.xlsx` **no** se incluye en el repositorio; debe obtenerse del enunciado del curso y subirse manualmente al entorno de Colab (o referenciarse desde Google Drive).
+| `Candidatos_supermercardos.xlsx` | Dataset utilizado.
 
 ## Integrantes
 
